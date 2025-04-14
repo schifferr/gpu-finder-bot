@@ -1,0 +1,1 @@
+web: python bot_gpu_finder.py
